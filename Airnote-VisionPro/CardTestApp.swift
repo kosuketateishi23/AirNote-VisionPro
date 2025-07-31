@@ -5,9 +5,9 @@
 //  Created by Ayumu Yamamoto on 2025/04/30.
 //
 
+@main
 import SwiftUI
 
-@main
 struct CardTestApp: App {
     var body: some Scene {
         // iPhone / iPad / Vision Proの2Dウィンドウ

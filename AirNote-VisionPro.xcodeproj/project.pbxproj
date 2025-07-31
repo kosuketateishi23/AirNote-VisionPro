@@ -26,22 +26,9 @@
 		3F7080882DCB275200756817 /* AirNote-VisionProTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AirNote-VisionProTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3F70808E2DCB275200756817 /* Exceptions for "AirNote-VisionPro" folder in "AirNote-VisionPro" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 3F70806F2DCB274C00756817 /* AirNote-VisionPro */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		3F7080722DCB274C00756817 /* AirNote-VisionPro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				3F70808E2DCB275200756817 /* Exceptions for "AirNote-VisionPro" folder in "AirNote-VisionPro" target */,
-			);
 			path = "AirNote-VisionPro";
 			sourceTree = "<group>";
 		};

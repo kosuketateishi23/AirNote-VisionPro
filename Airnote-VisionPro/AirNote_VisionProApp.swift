@@ -7,7 +7,6 @@
 
 import SwiftUI
 
-@main
 struct AirNote_VisionProApp: App {
 
     @State private var appModel = AppModel()
